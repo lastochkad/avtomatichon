@@ -18,11 +18,11 @@ def test_capitalize():
 def test_trim(line, result):
     assert utils.trim(line) == result
 
-@pytest.mark.xfail
+@pytest.mark.xfail()
 def test_negative_trim_with_numbers():
-    assert utils.trim(" 123") == " 123"
+    assert utils.trim(98765) == "98765"
 
-@pytest.mark.xfail
+@pytest.mark.xfail()
 def test_negative_trim_with_space():
     assert utils.trim(" space ") == " space "
 
