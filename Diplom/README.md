@@ -23,4 +23,4 @@
 """
 requirements.txt наполнен актуальными зависимостями 
 
-Проект в ноушн https://www.notion.so/Final-Project-Kinopoisk-52c136289c6e429ba7e01d8b1a6737d2?pvs=4
+Проект в ноушн https://www.notion.so/Final-Project-Kinopoisk-30a1bb03346e4f7691af3384eebdc7c6
